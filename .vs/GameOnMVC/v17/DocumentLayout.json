@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GameOnMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE381E-3B0D-4788-B4AF-4A7B8A0C0A0C}|Games.DAL\\GameOn.DAL.csproj|e:\\gameonmvc\\games.dal\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE381E-3B0D-4788-B4AF-4A7B8A0C0A0C}|Games.DAL\\GameOn.DAL.csproj|solutionrelative:games.dal\\data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE381E-3B0D-4788-B4AF-4A7B8A0C0A0C}|Games.DAL\\GameOn.DAL.csproj|e:\\gameonmvc\\games.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE381E-3B0D-4788-B4AF-4A7B8A0C0A0C}|Games.DAL\\GameOn.DAL.csproj|solutionrelative:games.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\games\\partial\\deletedetailsgamepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\games\\partial\\deletedetailsgamepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\shared\\_buttonspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\shared\\_buttonspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\games\\partial\\createupdategamepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\games\\partial\\createupdategamepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|e:\\gameonmvc\\games.pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DBD467D1-AF1A-4503-8309-35EA9726CAEF}|Games.PL\\GameOn.PL.csproj|solutionrelative:games.pl\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.DAL\\Data\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Games.DAL\\Data\\Models\\Game.cs",
+              "ToolTip": "E:\\GameOnMVC\\Games.DAL\\Data\\Models\\Game.cs",
+              "RelativeToolTip": "Games.DAL\\Data\\Models\\Game.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:32:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Games.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "E:\\GameOnMVC\\Games.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Games.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:56:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Games\\Delete.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Delete.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Games\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ButtonsPartial.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Shared\\_ButtonsPartial.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Shared\\_ButtonsPartial.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Shared\\_ButtonsPartial.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Shared\\_ButtonsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteDetailsGamePartialView.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Partial\\DeleteDetailsGamePartialView.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Games\\Partial\\DeleteDetailsGamePartialView.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Partial\\DeleteDetailsGamePartialView.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Games\\Partial\\DeleteDetailsGamePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Games\\Create.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Games\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Games\\Index.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Games\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Games.PL\\Program.cs",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Program.cs",
+              "RelativeToolTip": "Games.PL\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wCMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:54:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Games.PL\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Games.PL\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-05T11:54:24.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Games.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Games.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:54:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUpdateGamePartialView.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Partial\\CreateUpdateGamePartialView.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Games\\Partial\\CreateUpdateGamePartialView.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Games\\Partial\\CreateUpdateGamePartialView.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Games\\Partial\\CreateUpdateGamePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GameOnMVC\\Games.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Games.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\GameOnMVC\\Games.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Games.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T11:54:24.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

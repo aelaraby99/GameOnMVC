@@ -1,0 +1,50 @@
+﻿@model IEnumerable<GameViewModel>
+@{
+    ViewData["Title"] = "Games";
+}
+<a asp-action="Create" class="btn btn-outline-secondary">
+    <i class="bi bi-plus-circle-dotted d-inline-block m-1"></i>
+    Add New Game
+</a>
+<div class="row justify-content-center align-items-center mt-3">
+    <form class="row justify-content-between align-items-center col-8" role="search">
+        <input class="form-control w-75" type="search" placeholder="Search By Name" name="SearchValue">
+        <button class="btn btn-outline-success w-25" type="submit">Search</button>
+    </form>
+</div>
+@if (Model.Count() > 0)
+{
+    <div class="row pe-0 me-0 pt-5">
+        @foreach (var Game in Model)
+        {
+            <div class="col-md-6 col-lg-4 pe-0  mb-4">
+                <div class="card">
+                    <div class="card-header text-center btn-outline-dark h3">@Game.Name</div>
+                    <img class="card-img-top" src="~/Files/Images/@Game.CoverName" width="411px" height="412px">
+                    <div class="card-body">
+                        <h2 class="card-title text-center btn-outline-dark">
+                            @foreach (var Device in Game.Devices)
+                            {
+                                <small><i class="@Device.Icon fs-4 me-2 p-1" title="@Device.Name"></i></small>
+                            }
+                        </h2>
+                        <h3 class="card-title text-secondary">@Game.Category.Name</h3>
+                        <p class="card-text">@Game.Description</p>
+                        <div class="card-footer-container">
+                            <div class="card-footer text-center">
+                                <partial name="_ButtonsPartial" model="Game.Id.ToString()" />
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="mt-5 alert alert-info">
+        <h3> There is No Any Games!!</h3>
+    </div>
+}

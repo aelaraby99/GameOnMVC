@@ -1,0 +1,56 @@
+﻿@model GameViewModel
+@inject IUnitOfWork unitOfWork
+@{
+    var Categories = new SelectList(await unitOfWork.CategoryRepository.GetAllAsync(), "Id", "Name");
+    var Devices = new SelectList(await unitOfWork.DeviceRepository.GetAllAsync(), "Id", "Name");
+}
+<div class="row">
+    <div class="col-md-12 col-lg-6">
+        <div asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label asp-for="Name" class="form-label mt-4"></label>
+            <input class="form-control text-white" asp-for="Name" placeholder="ex: PUBG">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId" class="form-label mt-4"></label>
+            <select class="form-select" asp-for="CategoryId" asp-items="@Categories" data-placeholder="Select a Category">
+                <option value=""></option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SelectedDevices" class="form-label mt-4"></label>
+            <select class="form-select" asp-for="SelectedDevices" asp-items="@Devices" data-placeholder="Select Devices">
+                    <option value=""></option>
+            </select>
+            <span asp-validation-for="SelectedDevices" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description" class="form-label mt-4"></label>
+            <textarea class="form-control text-white" rows="3" asp-for="Description" placeholder="ex: PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive."></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Cover" class="form-label mt-4"></label>
+            <input class="form-control text-white" onchange="previewImage(this)" asp-for="Cover">
+            <small class="form-text text-muted"> Only .jpg, .jpes, .png files are allowed</small>
+            <span asp-validation-for="Cover" class="text-danger d-block"></span>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-4 d-none d-md-block pt-3 text-center">
+        <div class="card-parent">
+            <div class="card2">
+                @if(Model is not null && Model.CoverName != null)
+                {
+                    <img class="cover-preview" src="~/Files/Images/@Model.CoverName" alt="Game Preview" />
+                }
+                <img class="cover-preview" hidden id="cover-preview" alt="Game Preview" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

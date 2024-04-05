@@ -1,0 +1,45 @@
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.deps.json
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.AssemblyReference.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfoInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfo.cs
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.CopyComplete
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\refint\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\ref\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.deps.json
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.AssemblyReference.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfoInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfo.cs
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.CopyComplete
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\refint\GameOn.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.BLL\obj\Debug\net6.0\ref\GameOn.BLL.dll
+E:\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.deps.json
+E:\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.dll
+E:\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.BLL.pdb
+E:\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.dll
+E:\GameOnMVC\Games.BLL\bin\Debug\net6.0\GameOn.DAL.pdb
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.AssemblyReference.cache
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfoInputs.cache
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.AssemblyInfo.cs
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.CoreCompileInputs.cache
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.csproj.Up2Date
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.dll
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\refint\GameOn.BLL.dll
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\GameOn.BLL.pdb
+E:\GameOnMVC\Games.BLL\obj\Debug\net6.0\ref\GameOn.BLL.dll

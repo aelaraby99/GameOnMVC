@@ -1,0 +1,17 @@
+﻿@model GameViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="container">
+    <h2>
+        <i class="bi bi-plus-circle-dotted"></i>
+        Add a New Game
+    </h2>
+    <form asp-controller="Games" enctype="multipart/form-data">
+        <partial name="Partial/CreateUpdateGamePartialView" />
+        <div class="form-group col-md-12 col-lg-6 d-flex align-items-center justify-content-around">
+            <button type="submit" class="btn btn-outline-success rounded-pill tex-black mt-4"> <i class="icon-copy bi bi-save"></i> </i> Create</button>
+            <a asp-action="Index" class="btn btn-outline-secondary rounded-pill tex-black mt-4"> <i class="icon-copy bi bi-backspace-reverse-fill"></i> Cancel</a>
+        </div>
+    </form>
+</div>

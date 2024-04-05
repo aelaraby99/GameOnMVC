@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Mobile",
+    "Icon": "bi bi-phone"
+  },
+  {
+    "Name": "Nintendo Switch",
+    "Icon": "bi bi-nintendo-switch"
+  },
+  {
+    "Name": "PC",
+    "Icon": "bi bi-pc-display "
+  },
+  {
+    "Name": "PlayStation",
+    "Icon": "bi bi-playstation"
+  },
+  {
+    "Name": "Xbox",
+    "Icon": "bi bi-xbox"
+  }
+]

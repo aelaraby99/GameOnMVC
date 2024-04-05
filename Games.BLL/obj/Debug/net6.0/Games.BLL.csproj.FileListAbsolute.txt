@@ -1,0 +1,15 @@
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\Games.BLL.deps.json
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\Games.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\Games.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\Games.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\bin\Debug\net6.0\Games.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.csproj.AssemblyReference.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.AssemblyInfoInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.AssemblyInfo.cs
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.csproj.CopyComplete
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\refint\Games.BLL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\Games.BLL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.BLL\obj\Debug\net6.0\ref\Games.BLL.dll

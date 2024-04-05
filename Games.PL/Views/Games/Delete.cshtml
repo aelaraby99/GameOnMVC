@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <h2>
+        <i class="bi bi-radioactive text-danger"></i>
+        Delete Game ?
+    </h2>
+    <form asp-controller="Games" enctype="multipart/form-data">
+        <partial name="Partial/DeleteDetailsGamePartialView" />
+        <div class="form-group col-md-12 col-lg-6 d-flex align-items-center justify-content-around">
+            <button type="submit" class="btn btn-outline-danger rounded-pill tex-black mt-4"> <i class="icon-copy bi bi-trash"></i> </i> Delete</button>
+            <a asp-action="Index" class="btn btn-outline-secondary rounded-pill tex-black mt-4"> <i class="icon-copy bi bi-backspace-reverse-fill"></i> Cancel</a>
+        </div>
+    </form>
+</div>
+

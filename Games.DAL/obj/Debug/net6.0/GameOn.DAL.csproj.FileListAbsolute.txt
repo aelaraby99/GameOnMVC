@@ -1,0 +1,36 @@
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.deps.json
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.AssemblyReference.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfoInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfo.cs
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\refint\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GamesMVC\Games.DAL\obj\Debug\net6.0\ref\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.deps.json
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.AssemblyReference.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfoInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfo.cs
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\refint\GameOn.DAL.dll
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.pdb
+D:\Courses\Route\Dot_Net_C40\Eng Ahmed Nasser\GameOnMVC\Games.DAL\obj\Debug\net6.0\ref\GameOn.DAL.dll
+E:\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.deps.json
+E:\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.dll
+E:\GameOnMVC\Games.DAL\bin\Debug\net6.0\GameOn.DAL.pdb
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.AssemblyReference.cache
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfoInputs.cache
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.AssemblyInfo.cs
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.csproj.CoreCompileInputs.cache
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.dll
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\refint\GameOn.DAL.dll
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\GameOn.DAL.pdb
+E:\GameOnMVC\Games.DAL\obj\Debug\net6.0\ref\GameOn.DAL.dll

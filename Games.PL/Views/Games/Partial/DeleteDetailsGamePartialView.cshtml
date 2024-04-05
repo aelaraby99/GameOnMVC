@@ -1,0 +1,43 @@
+﻿@model GameViewModel
+@inject IUnitOfWork unitOfWork
+@{
+    var Categories = new SelectList(await unitOfWork.CategoryRepository.GetAllAsync(), "Id", "Name");
+}
+<div class="row">
+    <div class="col-md-12 col-lg-6">
+        <div class="form-group">
+            <label asp-for="Name" class="form-label mt-4"></label>
+            <input class="form-control text-white" disabled  asp-for="Name" placeholder="ex: PUBG">
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId" class="form-label mt-4"></label>
+            <select class="form-select" asp-for="CategoryId" disabled asp-items="@Categories" data-placeholder="Select a Category">
+                <option value=""></option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="Devices" class="form-label mt-4"></label>
+          <div class="text-center">
+                @foreach (var device in Model.Devices)
+                {
+                    <span class="btn btn-outline-success p-2 me-2 rounded-pill"><i class="@device.Icon fs-6"></i> @device.Name</span>
+                }
+          </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description" class="form-label mt-4"></label>
+            <textarea class="form-control text-white" disabled rows="5"  asp-for="Description" placeholder="ex: PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive."></textarea>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-4 d-md-block pt-3 text-center">
+        <div class="card-parent">
+            <div class="card2">
+                <img src="~/Files/Images/@Model.CoverName" class="cover-preview" id="cover-preview" alt="Game Preview" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
