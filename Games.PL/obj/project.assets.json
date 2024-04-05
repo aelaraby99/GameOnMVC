@@ -10905,11 +10905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
+      "projectUniqueName": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
       "projectName": "GameOn.PL",
-      "projectPath": "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
+      "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
       "packagesPath": "C:\\Users\\xXNinjaXx\\.nuget\\packages\\",
-      "outputPath": "E:\\GameOnMVC\\Games.PL\\obj\\",
+      "outputPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xXNinjaXx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10925,11 +10925,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
-              "projectPath": "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj"
+            "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
+              "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj"
             },
-            "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
-              "projectPath": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
+            "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
+              "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
             }
           }
         }

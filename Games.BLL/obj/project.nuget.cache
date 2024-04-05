@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NYdWoBml15djYHtr+sMN+ifUx1QpPqIMRsqRH+Md/jxLZJCe2w/pwKuy+kFceBFCwkOFwHGJULOiFhwI0I5mYw==",
+  "dgSpecHash": "7FvxiC9OltwoOarq9cv9oglOD9rpGbaGjlXoKa1tJLUbeVMyqPh4VIANK/5+tDzLl2DJ99IGzehVYJS6DBtmSw==",
   "success": true,
-  "projectFilePath": "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
+  "projectFilePath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xXNinjaXx\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\xXNinjaXx\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

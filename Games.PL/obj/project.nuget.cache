@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CGjTvTUrd8LZhqoB5FmubwtEui1A3y2ofY9kxl2KIIS0ol9haTxM+X28cx8PX1mTB6AL17NzC93iQl4E0ZzEyA==",
+  "dgSpecHash": "FgZ0J7uom7R+iXpMcAWbBfq4ZF/k+jXdfVSX8RMcZbfnzP+m3iW1t7tLv6R3AD4wPTVJMlGdpOqsYsQRMsRuAQ==",
   "success": true,
-  "projectFilePath": "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
+  "projectFilePath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xXNinjaXx\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\xXNinjaXx\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

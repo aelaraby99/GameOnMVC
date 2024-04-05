@@ -1915,11 +1915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
       "projectName": "GameOn.DAL",
-      "projectPath": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
+      "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
       "packagesPath": "C:\\Users\\xXNinjaXx\\.nuget\\packages\\",
-      "outputPath": "E:\\GameOnMVC\\Games.DAL\\obj\\",
+      "outputPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xXNinjaXx\\AppData\\Roaming\\NuGet\\NuGet.Config",

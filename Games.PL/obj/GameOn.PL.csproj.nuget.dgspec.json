@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj": {}
+    "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj": {}
   },
   "projects": {
-    "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
+    "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
         "projectName": "GameOn.BLL",
-        "projectPath": "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
+        "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj",
         "packagesPath": "C:\\Users\\xXNinjaXx\\.nuget\\packages\\",
-        "outputPath": "E:\\GameOnMVC\\Games.BLL\\obj\\",
+        "outputPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xXNinjaXx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
-                "projectPath": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
+              "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
+                "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
+    "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
         "projectName": "GameOn.DAL",
-        "projectPath": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
+        "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj",
         "packagesPath": "C:\\Users\\xXNinjaXx\\.nuget\\packages\\",
-        "outputPath": "E:\\GameOnMVC\\Games.DAL\\obj\\",
+        "outputPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xXNinjaXx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj": {
+    "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
+        "projectUniqueName": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
         "projectName": "GameOn.PL",
-        "projectPath": "E:\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
+        "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\GameOn.PL.csproj",
         "packagesPath": "C:\\Users\\xXNinjaXx\\.nuget\\packages\\",
-        "outputPath": "E:\\GameOnMVC\\Games.PL\\obj\\",
+        "outputPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xXNinjaXx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,11 +155,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
-                "projectPath": "E:\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj"
+              "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj": {
+                "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.BLL\\GameOn.BLL.csproj"
               },
-              "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
-                "projectPath": "E:\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
+              "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj": {
+                "projectPath": "C:\\Users\\xXNinjaXx\\Desktop\\GameOnMVC\\Games.DAL\\GameOn.DAL.csproj"
               }
             }
           }
